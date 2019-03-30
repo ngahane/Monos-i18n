@@ -1,2 +1,2 @@
 # Monos-i18n
-Monos is a javascript library for internationalization.
+Monos-i18n is a javascript library for internationalization.
